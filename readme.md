@@ -24,10 +24,12 @@ Courtify là giải pháp quản lý sân cầu lông toàn diện với các t�
 ## 💻 Yêu cầu hệ thống
 
 ### Cho người dùng cuối
+
 - Trình duyệt web hiện đại (Chrome 90+, Firefox 88+, Edge 90+, Safari 14+)
 - Kết nối Internet ổn định
 
 ### Cho developers (Self-hosted)
+
 - **Node.js** phiên bản 18.0.0 trở lên
 - **PNPM** hoặc **NPM** phiên bản 9.0.0 trở lên
 - **Git** (đã có sẵn nếu bạn clone từ repo)
@@ -86,6 +88,7 @@ npm run dev
 ### Đăng nhập
 
 Sử dụng tài khoản mặc định:
+
 - **Email:** admin@courtify.vn
 - **Mật khẩu:** admin123
 
@@ -101,19 +104,6 @@ Sử dụng tài khoản mặc định:
 6. **Hóa đơn** - Xuất PDF chuyên nghiệp
 7. **Báo cáo** - Thống kê doanh thu
 
-## 📞 Liên hệ
-
-| Kênh | Thông tin |
-|------|-----------|
-| 🌐 **Website** | [kteam.vn](https://kteam.vn) |
-| ▶️ **YouTube** | [youtube.com/kteam](https://youtube.com/kteam) |
-| 📘 **Facebook** | [facebook.com/howkteam](https://facebook.com/howkteam) |
-| 📧 **Email** | plus.kimlong@gmail.com |
+### Clone @Kteam
 
 ---
-
-© 2024-2026 Kteam. All rights reserved.
-
-> 💬 *"Chúng tôi tạo ra những công cụ giúp cuộc sống và công việc của bạn trở nên dễ dàng hơn"*
->
-> — **Kteam**
